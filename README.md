@@ -14,7 +14,7 @@ https://github.com/leonardohjines/angular2-login
 
 ## Usage
 
-1. Clone the repo: `git clone git@github.com:scotch-io/node-token-authentication`
-2. Install dependencies: `npm install` (if don't exist yet, check for node_modules folder)
+1. Clone the repo: `git clone https://github.com/rolando-febrero/angular2-login-and-authentication`
+2. Install dependencies: `npm install` (if dependencies don't exist yet, check for node_modules folder)
 3. Find user/pass information in: `authentication.services.ts
 4. Magic happens at: `http://localhost:3000/home`
